@@ -154,5 +154,4 @@ def get_file_id(data: str) -> tuple[Any, bool]:
     else:
         return data, False
 
-Благодарности
-Благодарим команду GigaChat за предоставление API и документации.
+
